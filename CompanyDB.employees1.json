@@ -1,0 +1,127 @@
+[{
+  "_id": {
+    "$oid": "69256c2cee762dc82e587e93"
+  },
+  "name": "Aman",
+  "age": 25,
+  "salary": 60000,
+  "department": "IT"
+},
+{
+  "_id": {
+    "$oid": "69256c2cee762dc82e587e94"
+  },
+  "name": "Ravi",
+  "age": 29,
+  "salary": 48000,
+  "department": "HR"
+},
+{
+  "_id": {
+    "$oid": "69256c2cee762dc82e587e95"
+  },
+  "name": "Neha",
+  "age": 23,
+  "salary": 55000,
+  "experience": 5,
+  "department": "Finance"
+},
+{
+  "_id": {
+    "$oid": "69256c2cee762dc82e587e96"
+  },
+  "name": "Sita",
+  "age": 31,
+  "salary": 72000,
+  "department": "Operations"
+},
+{
+  "_id": {
+    "$oid": "69256c2cee762dc82e587e97"
+  },
+  "name": "John",
+  "age": 27,
+  "salary": 43000,
+  "department": "Marketing"
+},
+{
+  "_id": {
+    "$oid": "6927d8dbb00145e71ad122ea"
+  },
+  "name": "Arjun",
+  "age": 29,
+  "department": "IT",
+  "salary": 52000,
+  "skills": [
+    "Java",
+    "Spring",
+    "MongoDB"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6927d8dbb00145e71ad122eb"
+  },
+  "name": "Kavya",
+  "age": 24,
+  "department": "HR",
+  "salary": 38000,
+  "skills": [
+    "Communication",
+    "Recruitment"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6927d8dbb00145e71ad122ec"
+  },
+  "name": "Rohit",
+  "age": 34,
+  "department": "Finance",
+  "salary": 61000,
+  "skills": [
+    "Excel",
+    "GST Filing",
+    "Auditing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6927d8dbb00145e71ad122ed"
+  },
+  "name": "Sita",
+  "age": 27,
+  "department": "Marketing",
+  "salary": 45000,
+  "skills": [
+    "SEO",
+    "Content Writing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6927d8dbb00145e71ad122ee"
+  },
+  "name": "Vikram",
+  "age": 31,
+  "department": "IT",
+  "salary": 70000,
+  "skills": [
+    "NodeJS",
+    "DevOps",
+    "AWS"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6927d8dbb00145e71ad122ef"
+  },
+  "name": "Neha",
+  "age": 22,
+  "department": "Sales",
+  "salary": 30000,
+  "skills": [
+    "Negotiation",
+    "CRM"
+  ]
+}]
