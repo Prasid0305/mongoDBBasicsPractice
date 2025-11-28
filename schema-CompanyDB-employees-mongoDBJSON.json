@@ -1,0 +1,38 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "_id",
+      "age",
+      "department",
+      "name",
+      "salary"
+    ],
+    "properties": {
+      "_id": {
+        "bsonType": "objectId"
+      },
+      "age": {
+        "bsonType": "int"
+      },
+      "department": {
+        "bsonType": "string"
+      },
+      "experience": {
+        "bsonType": "int"
+      },
+      "name": {
+        "bsonType": "string"
+      },
+      "salary": {
+        "bsonType": "int"
+      },
+      "skills": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "string"
+        }
+      }
+    }
+  }
+}
